@@ -38,6 +38,7 @@
 
 #     return c
 # print(fun(c))
+# outpus = 133
 
 
 
@@ -52,6 +53,7 @@
 #       i+=1
 #       return fun(n)
 # print(fun(n))
+# output = 5
 
 
 
