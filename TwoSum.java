@@ -22,4 +22,5 @@ class twosum{
      
   }
     return res;
-  }
+   }
+}
