@@ -43,6 +43,12 @@ POLYMORPHISM
  -  Like abstract classes  interfaces, we cannot create objects of interfaces.
  -  Implements keyword is used to implement interfaces in java.
  -  Similar to classes interfaces can extend other interfaces.
+ 
+ 
+ SUPER KEYWORD
+ - Super keyword refers to super class (parent objects).
+ - It is used to call superclass methods, and to access the superclass constructor.
+ - THE MOST COMMON USE OF SUPERCLASS IS TO ELIMINATE THE CONFUSION BETWEEN SUPERCLASSES AND SUBCALASSES THAT HAVE SAME METHOD NAMES.
 
  
  
