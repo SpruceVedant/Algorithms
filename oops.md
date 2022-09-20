@@ -29,3 +29,12 @@ POLYMORPHISM
  -  Data abstraction is a property by  virtue of which only the esssential details are displayed to the user.
  -  It is achived by interfaces and abstract classes.
  -  An abstract class is a type of class which can have abstract as well as regular methods.
+
+ ENCAPSULATION
+ -  Data encapsulation is a property of hiding data attributes and their behaviours in a single unit.
+ -  It helps devs to follow modularity ehile developing software by ensureing that each object is independent of other objects
+    by having its own methods , attributes
+ -  It is used for the security of private properties of an object and hence serves the purpose of data hiding.
+ 
+ 
+ 
