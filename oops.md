@@ -41,9 +41,9 @@ POLYMORPHISM
  -  In java interface specifies the behaviour of a class by providing an abstract type.
  -  Interface is a fully abstract class (methods without a body).
  -  Like abstract classes  interfaces, we cannot create objects of interfaces.
+ -  Implements keyword is used to implement interfaces in java.
+ -  Similar to classes interfaces can extend other interfaces.
 
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
  
  
  
