@@ -21,3 +21,11 @@ Inheritance allows us to create a new class from an existing class.
 POLYMORPHISM
  - Polymorphism simply means many forms or more than one form.
  - Same entity(methods or operator or object) can perform different operations in different scenarios.
+ 
+ 
+ 
+ 
+ ABSTRACTION
+ -  Data abstraction is a property by  virtue of which only the esssential details are displayed to the user.
+ -  It is achived by interfaces and abstract classes.
+ -  An abstract class is a type of class which can have abstract as well as regular methods.
