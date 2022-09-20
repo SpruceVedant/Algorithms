@@ -37,4 +37,13 @@ POLYMORPHISM
  -  It is used for the security of private properties of an object and hence serves the purpose of data hiding.
  
  
+ INTERFACES
+ -  In java interface specifies the behaviour of a class by providing an abstract type.
+ -  Interface is a fully abstract class (methods without a body).
+ -  Like abstract classes  interfaces, we cannot create objects of interfaces.
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+ 
+ 
  
