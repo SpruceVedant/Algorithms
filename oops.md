@@ -55,6 +55,15 @@ POLYMORPHISM
  - An enum is a special class that represents group of constants(unchangeble variables ,like final variable)
  - Enum keyword is used to create enums.
 
+
+ INSTANCE VARIABLE
+ - Instance variables are the variables that are accesible by all the methods in the class.
+ - They are declared outside the methods and inside the class.
+ - These variables describes the property of an object
+ 
+ LOCAL VARIABLE
+ - Local variables are the varibles that are present inside constructors , methods , functions and can be accesed only inside them.
+
  
  
  
