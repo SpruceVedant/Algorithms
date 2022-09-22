@@ -50,6 +50,11 @@ POLYMORPHISM
  - It is used to call superclass methods, and to access the superclass constructor.
  - THE MOST COMMON USE OF SUPERCLASS IS TO ELIMINATE THE CONFUSION BETWEEN SUPERCLASSES AND SUBCALASSES THAT HAVE SAME METHOD NAMES.
 
+
+ ENUMS
+ - An enum is a special class that represents group of constants(unchangeble variables ,like final variable)
+ - Enum keyword is used to create enums.
+
  
  
  
