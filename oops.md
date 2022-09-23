@@ -64,6 +64,10 @@ POLYMORPHISM
  LOCAL VARIABLE
  - Local variables are the varibles that are present inside constructors , methods , functions and can be accesed only inside them.
 
+
+ METHOD OVERRIDING
+ - If subclass (child class) has same method as declared in parent class, it is known as method overriding in java.
+
  
  
  
