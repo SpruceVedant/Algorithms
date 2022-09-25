@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class arrays{
   int arr[] = {1,2,3,4};
   public static void main(String[],args){
