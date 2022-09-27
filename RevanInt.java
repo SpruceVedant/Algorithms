@@ -3,7 +3,7 @@
 // Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
 
-public class reverseanint {
+ class reverseanint {
     public int reverse(int x) {
         int res = 0;
          while(x != 0){
