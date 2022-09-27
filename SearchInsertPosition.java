@@ -12,4 +12,6 @@ class fkdjfdk{
                 high = mid - 1;
             }
     }
+        return high;
+  }
 }
