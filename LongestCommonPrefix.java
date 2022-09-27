@@ -15,5 +15,6 @@ class solution{
       return prefix;
        
     }
+     return prefix;
   }
 }
