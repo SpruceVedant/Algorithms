@@ -34,3 +34,27 @@ class javaprac{
     }
 }
 // output will be 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// I messed up my interview , i will forever hold regret that i missed an open oprtuninty. , Its like missing an open goal where ther is no keeper.
