@@ -69,6 +69,9 @@ POLYMORPHISM
  - If subclass (child class) has same method as declared in parent class, it is known as method overriding in java.
  - Method overriding is used for runtime polymorphism.
 
+ METHOD OVERLOADING
+ - Method overloading is a form of polymorphism in OOP. Polymorphism allows objects or methods    to act in different ways, according to the means in which they are used. 
+
  
  
  
