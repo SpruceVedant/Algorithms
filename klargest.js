@@ -14,5 +14,5 @@ klargest(arr, n, k);
 
 
 // use nodejs
-// to run the program
+
 
