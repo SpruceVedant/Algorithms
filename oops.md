@@ -72,6 +72,11 @@ POLYMORPHISM
  METHOD OVERLOADING
  - Method overloading is a form of polymorphism in OOP. Polymorphism allows objects or methods    to act in different ways, according to the means in which they are used. 
 
+
+ MULTITHREADING
+ - Multithreading in Java is a process of executing multiple threads simultaneously.
+ - A thread is a lightweight sub-process, the smallest unit of processing. Multiprocessing and multithreading, both are used to achieve multitasking.
+
  
  
  
