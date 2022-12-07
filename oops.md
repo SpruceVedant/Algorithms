@@ -77,6 +77,11 @@ POLYMORPHISM
  - Multithreading in Java is a process of executing multiple threads simultaneously.
  - A thread is a lightweight sub-process, the smallest unit of processing. Multiprocessing and multithreading, both are used to achieve multitasking.
 
+
+ CONSTRUCTORS
+- Default Constructor: In Java, a default constructor is the one which does not take any inputs. In other words, default constructors are the no argument constructors   which will be created by default in case you no other constructor is defined by the user. Its main purpose is to initialize the instance variables with the default      values. Also, it is majorly used for object creation. 
+- Parameterized Constructor: The parameterized constructor in Java, is the constructor which is capable of initializing the instance variables with the provided values. In other words, the constructors which take the arguments are called parameterized constructors.
+
  
  
  
