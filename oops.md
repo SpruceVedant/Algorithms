@@ -82,6 +82,12 @@ POLYMORPHISM
 - Default Constructor: In Java, a default constructor is the one which does not take any inputs. In other words, default constructors are the no argument constructors   which will be created by default in case you no other constructor is defined by the user. Its main purpose is to initialize the instance variables with the default      values. Also, it is majorly used for object creation. 
 - Parameterized Constructor: The parameterized constructor in Java, is the constructor which is capable of initializing the instance variables with the provided values. In other words, the constructors which take the arguments are called parameterized constructors.
 
+
+ ABSTRACT CLASS
+ - An abstract class is a special class containing abstract methods. 
+ - The significance of abstract class is that the abstract methods inside it are not implemented and only declared.
+ - So as a result, when a subclass inherits the abstract class and needs to use its abstract methods, they need to define and implement them.
+
  
  
  
