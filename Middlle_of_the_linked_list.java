@@ -8,7 +8,5 @@ class solutionoflinked{
         }
         return A[t/2];
     }
-
-
     `
 }
