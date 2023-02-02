@@ -7,6 +7,6 @@ class solutionoflinked{
             head = head.next;
         }
         return A[t/2];
-    }
+    } 
     `
 }
