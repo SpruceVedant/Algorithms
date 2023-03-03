@@ -87,6 +87,11 @@ POLYMORPHISM
  - An abstract class is a special class containing abstract methods. 
  - The significance of abstract class is that the abstract methods inside it are not implemented and only declared.
  - So as a result, when a subclass inherits the abstract class and needs to use its abstract methods, they need to define and implement them.
+ 
+ SINGLETON CLASS
+ - A class that can possess only one object at a time is called a singleton class. To implement a singleton class given steps are to be followed:
+ - Make sure that the class has only one object
+ - Give global access to that object
 
  
  
