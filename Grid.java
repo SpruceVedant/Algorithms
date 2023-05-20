@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class grid {
     public static int getNoOfSquares(int n) {
         int count = 0;
