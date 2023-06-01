@@ -44,8 +44,5 @@ class Solution {
        String lastWord = word[word.length - 1];
 
        return lastWord.length();
-
-
-
     }
 }
