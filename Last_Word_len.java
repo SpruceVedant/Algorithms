@@ -3,9 +3,6 @@
 // A word is a maximal 
 // substring
 //  consisting of non-space characters only.
-
- 
-
 // Example 1:
 
 // Input: s = "Hello World"
@@ -28,7 +25,6 @@
 // 1 <= s.length <= 104
 // s consists of only English letters and spaces ' '.
 // There will be at least one word in s.
-
 
 
 class Solution {
