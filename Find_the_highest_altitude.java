@@ -13,7 +13,6 @@
 // Output: 0
 // Explanation: The altitudes are [0,-4,-7,-9,-10,-6,-3,-1]. The highest is 0.
 
-
 class Solution {
     public int largestAltitude(int[] gain) {
       int currentAltitude = 0;
