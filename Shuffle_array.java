@@ -8,3 +8,12 @@ class shuffle{
         return res;
     }
 }
+
+// class Solution {
+//     public int[] shuffle(int[] nums, int n) {
+//       return IntStream.range(0, n)
+//             .flatMap(i -> IntStream.of(nums[i], nums[i + n]))
+//             .toArray();
+
+//     }
+// }
