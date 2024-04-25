@@ -1,4 +1,5 @@
 // Count occurrences of a number in a sorted array with duplicates
+// Binary search problem
 
 public class count {
     public int count_occur(int[] arr, int target){
